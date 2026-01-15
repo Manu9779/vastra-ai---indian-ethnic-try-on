@@ -1,0 +1,7 @@
+{
+  "name": "Vastra AI - Indian Ethnic Try-On",
+  "description": "An advanced AI-powered fashion platform for Indian traditional wear, featuring body analysis, recommendation engines, and virtual try-on technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
