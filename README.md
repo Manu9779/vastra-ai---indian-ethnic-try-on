@@ -1,10 +1,10 @@
-👗 Indian Ethnic AI Fashion Try-On
-
+**👗 Indian Ethnic AI Fashion Try-On
+**
 An AI-powered virtual try-on and personalized recommendation system designed specifically for Indian ethnic wear.
 This platform allows users to upload their photo, get intelligent outfit recommendations, and instantly see how selected Indian outfits look on them.
 
-🚀 Project Overview
-
+**🚀 Project Overview
+**
 Buying Indian ethnic wear online is difficult because customers cannot visualize how the outfit will look on their body, skin tone, and pose.
 This project solves that using computer vision, machine learning, and generative AI.
 
@@ -15,8 +15,8 @@ Detects user body, gender, and skin tone
 Recommends suitable Indian outfits
 
 Generates realistic virtual try-on images
-
-🧠 Key Features
+**
+🧠 Key Features**
 📷 User Image Analysis
 
 Detects body shape
@@ -27,8 +27,8 @@ Extracts skin tone
 
 Segments clothing and background
 
-👚 Indian Outfit Recommendation
-
+**👚 Indian Outfit Recommendation
+**
 Personalized recommendations based on:
 
 Skin tone
@@ -39,16 +39,16 @@ Gender
 
 Indian fashion trends
 
-👘 One-Click Virtual Try-On
-
+**👘 One-Click Virtual Try-On
+**
 Select a recommended outfit
 
 AI automatically generates a try-on image
 
 No manual steps required
 
-🧾 Clothing Database
-
+**🧾 Clothing Database
+**
 Includes Indian ethnic wear:
 
 Sarees
@@ -65,8 +65,8 @@ Nehru jackets
 
 All items have AI embeddings for intelligent matching.
 
-🛠️ Technology Stack
-Frontend
+**🛠️ Technology Stack
+**Frontend
 
 Next.js
 
