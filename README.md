@@ -1,11 +1,4 @@
-# vastra-ai---indian-ethnic-try-on
->>>>>>> 8825e482ee10f6b36ba8865db211b1d1da1480a2
-=======
 # Vastra AI - Indian Ethnic Try-On
-
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
 ## Overview
 
@@ -97,7 +90,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Xd9R10LfNTsgJ5hddn_ide6yqbAuE6Oh
-=======
-# vastra-ai---indian-ethnic-try-on
->>>>>>> 8825e482ee10f6b36ba8865db211b1d1da1480a2
